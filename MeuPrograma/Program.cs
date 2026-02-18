@@ -2,6 +2,9 @@
 
 namespace MeuPrograma
 {
+    /// <summary>
+    /// Mostra na tela hello World e Bye World
+    /// </summary>
     public class Program
     {
         private static void Main(string[] args)
